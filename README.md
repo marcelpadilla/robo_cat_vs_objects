@@ -6,7 +6,7 @@ A simulated robo-cat that learns to clear a table.
 
 **Marcel Padilla**, ETH Zürich
 
-<img src="assets/thumbnail.png" alt="The robo-cat walking up to an object on the table and pushing it over the edge" width="100%">
+<img src="screenshot.jpg" alt="The robo-cat walking across a table set with a wine bottle, a vase, a plant and an apple" width="100%">
 
 <sub>Robo cat doesn't like objects.</sub>
 
