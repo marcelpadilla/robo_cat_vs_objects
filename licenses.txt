@@ -1,3 +1,23 @@
+Third-party licenses.
+
+index.html embeds the MuJoCo WebAssembly build:
+
+  MuJoCo
+  Copyright 2021 DeepMind Technologies Limited
+  https://github.com/google-deepmind/mujoco
+
+  Licensed under the Apache License, Version 2.0, reproduced in full below.
+  It is the unmodified single-threaded @mujoco/mujoco 3.11.0 package, gzipped
+  and base64-encoded so the page needs no network at run time.
+
+The explosion sprite sheet inside index.html is baked from a Creative Commons
+green-screen clip supplied by Marcel Padilla, who holds full rights to use it.
+The clip itself is not redistributed; only the derived 16-cell sheet is.
+
+Everything else is Marcel Padilla's own work, MIT, in LICENSE.
+
+--------------------------------------------------------------------------------
+
 
                                  Apache License
                            Version 2.0, January 2004
